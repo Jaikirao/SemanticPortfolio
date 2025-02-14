@@ -1,7 +1,7 @@
 # Tech Support Chatbot
 
 ## Project Overview
-This project involves the development of a Tech Support Chatbot using a fine-tuned Large Language Model (LLM) on a technical support dataset. The chatbot is trained to assist users with common technical issues by providing accurate and relevant responses.
+This project involves the development of a Tech Support Chatbot using a fine-tuned Large Language Model (LLM) on a technical support dataset. The chatbot is trained to assist users with common technical issues by providing responses.
 
 ## Team Contributions
 Each team member contributed equally to the following aspects of the project:
