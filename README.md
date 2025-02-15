@@ -1,2 +1,6 @@
-# Capstone-Project-TechAssist-AI-
-An open-source AI-powered tech support assistant fine-tuned for answering common troubleshooting queries.
+# Semantic Data Processing Module Final Submission
+
+This repository contains all the deliverables required for our Semantic Data Processing module of the Master Artificial Intelligence program at THWS
+Members:
+Talha Altaf k67896
+Jaiki Yadav k
